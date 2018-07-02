@@ -1,0 +1,10 @@
+W:\Projects\QuickNote\QuickNote\QuickNote\bin\Release\QuickNote.exe.config
+W:\Projects\QuickNote\QuickNote\QuickNote\bin\Release\QuickNote.exe
+W:\Projects\QuickNote\QuickNote\QuickNote\bin\Release\QuickNote.pdb
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.CustomTitlebar.resources
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.Properties.Resources.resources
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.csproj.GenerateResource.cache
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.csproj.CoreCompileInputs.cache
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.exe
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.pdb
+W:\Projects\QuickNote\QuickNote\QuickNote\obj\Release\QuickNote.csprojResolveAssemblyReference.cache
